@@ -3,7 +3,7 @@ set notitle
 set noswapfile
 set wrap
 
-set number
+set relativenumber
 
 set clipboard=unnamedplus
 
