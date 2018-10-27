@@ -12,7 +12,6 @@ set foldmethod=manual
 set shiftwidth=4
 
 set incsearch
-set ignorecase
 
 set wildmenu
 
